@@ -1,5 +1,13 @@
 ## Hi there, i am Victor 
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)
+![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
+![GCP](https://img.shields.io/badge/GCP-white?style=flat&logo=googlecloud)
+![Node.js](https://img.shields.io/badge/NodeJS-black?style=flat&logo=nodedotjs)
+![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=social)
 
+[![Victors's GitHub stats](https://github-readme-stats.vercel.app/api?username=woidthevoid)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **woidthevoid/woidthevoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
