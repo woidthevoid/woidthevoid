@@ -1,13 +1,32 @@
-## Hi there, i am Victor 
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
-![GCP](https://img.shields.io/badge/GCP-white?style=flat&logo=googlecloud)
-![Node.js](https://img.shields.io/badge/NodeJS-black?style=flat&logo=nodedotjs)
-![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=social)
+# Hey, i am Victor. Thanks for stopping by 👋🏻
+I am a software engineer, currently pursuing a MSc in Software Engineering. 
 
-[![Victors's GitHub stats](https://github-readme-stats.vercel.app/api?username=woidthevoid)](https://github.com/anuraghazra/github-readme-stats)
+I am actively searching for opportunities where i can get professional experience out in the field, dont hestitate to [contact me](#how-to-reach-me)
+
+## About me
+```yaml
+name: Victor Woydowski Dralle
+nationality: Danish, though my name will say otherwise :)
+location: Odense, Denmark
+occupation: Full time student at SDU Odense
+education:
+  [
+    "MSc in Software Engineering, SDU Odense",
+    "B.Eng. in Software Technology, SDU Odense",
+  ]
+```
+
+## Technologies i have experience with 💻🛠️
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=45 height=45 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=45 height=45 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=45 height=45 />
+</p>
+
+[![Victors's GitHub stats](https://github-readme-stats.vercel.app/api?username=woidthevoid&hide=stars&show_icons=true&rank_icon=github&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+
+## How to reach me
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-dralle%2F)
 <!--
 **woidthevoid/woidthevoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
