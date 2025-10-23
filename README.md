@@ -21,12 +21,16 @@ education:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=45 height=45 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=45 height=45 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=45 height=45 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel.original.svg" width=45 height=45 />
 </p>
 
-[![Victors's GitHub stats](https://github-readme-stats.vercel.app/api?username=woidthevoid&hide=stars&show_icons=true&rank_icon=github&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+## How to reach me ☎️
+[![E-mail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woydowskidralle@gmail.com)
+<a href="tel:+4512345678">
+  <img alt="Ring til mig" src="https://img.shields.io/badge/Ring%20til%20mig-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dralle/)
 
-## How to reach me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-dralle%2F)
 <!--
 **woidthevoid/woidthevoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
