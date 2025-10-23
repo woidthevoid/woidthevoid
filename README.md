@@ -13,6 +13,7 @@ education:
   - MSc in Software Engineering, SDU Odense
   - B.Eng. in Software Technology, SDU Odense
 experience: Fullstack Web Developer @ AirPlate
+```
 
 ## Technologies i have experience with 💻🛠️
 <p align="left">
