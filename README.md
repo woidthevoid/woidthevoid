@@ -1,7 +1,7 @@
-# Hey, i am Victor. Thanks for stopping by 👋🏻
-I am a software engineer, currently pursuing a MSc in Software Engineering. 
+# Hey, I am Victor. Thanks for stopping by 👋🏻
+I am a software engineer, currently pursuing a MSc. in Software Engineering. 
 
-I am actively searching for opportunities where I can get professional experience out in the field, don't hestitate to [contact me](#how-to-reach-me)
+I am actively searching for opportunities where I can get professional experience out in the field, don't hestitate to [contact me](#how-to-reach-me).
 
 ## About me
 ```yaml
@@ -42,18 +42,3 @@ currently_learning: End-User Development in robotics, Software Methodlogies and 
 ## How to reach me ☎️
 [![E-mail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woydowskidralle@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dralle/)
-
-<!--
-**woidthevoid/woidthevoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
