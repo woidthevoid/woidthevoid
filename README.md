@@ -1,22 +1,26 @@
 # Hey, I am Victor. Thanks for stopping by 👋🏻
 I am a software engineer, currently pursuing a MSc. in Software Engineering. 
 
-I am actively searching for opportunities where I can get professional experience out in the field, don't hestitate to [contact me](#how-to-reach-me).
+I am actively searching for opportunities where I can get professional experience and make an impact in real-world projects. Don't hestiate to contact me!
 
 ## About me
-```yaml
-name: Victor Woydowski Dralle
-nationality: Danish, though my name will say otherwise :)
-location: Odense, Denmark
-occupation: Full time student at SDU Odense
-education:
-  - MSc in Software Engineering, SDU Odense
-  - B.Eng. in Software Technology, SDU Odense
-experience: Fullstack Web Developer @ AirPlate
-currently_working_on: CareerPilot, go check it out in my pinned repos
-currently_learning: End-User Development in robotics, Software Methodlogies and Advanced Software Architecture in 4.0 Industry
- 
-```
+**Name:** Victor Woydowski Dralle.
+
+**Nationality:** Danish, though my name will say otherwise :).
+
+**Location**: Odense, Denmark.
+
+**Occupation**: Full time student @ SDU Odense.
+
+**Education:**
+  - MSc in Software Engineering @ SDU Odense
+  - B.Eng. in Software Technology @ SDU Odense
+
+**Experience:** Fullstack Web Developer @ AirPlate.
+
+**Currently working on:** CareerPilot, go check it out in my pinned repos.
+
+**Currently learning:** End-User Development in robotics, Software Methodlogies and Advanced Software Architecture in 4.0 Industry.
 
 ## Some of the technologies I have worked with 💻🛠️
 <p align="left">
