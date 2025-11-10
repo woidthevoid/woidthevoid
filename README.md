@@ -22,6 +22,8 @@ I am actively searching for opportunities where I can get professional experienc
 
 **Currently learning:** End-User Development in robotics, Software Methodlogies and Advanced Software Architecture in 4.0 Industry.
 
+I am also currently looking into Go.
+
 ## Some of the technologies I have worked with 💻🛠️
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=45 height=45 />
